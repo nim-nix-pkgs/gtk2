@@ -11,7 +11,6 @@
   inputs.src-gtk2-v1_3.ref   = "refs/tags/v1.3";
   inputs.src-gtk2-v1_3.owner = "nim-lang";
   inputs.src-gtk2-v1_3.repo  = "gtk2";
-  inputs.src-gtk2-v1_3.dir   = "";
   inputs.src-gtk2-v1_3.type  = "github";
   
   inputs."cairo".owner = "nim-nix-pkgs";

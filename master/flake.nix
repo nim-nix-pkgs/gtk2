@@ -11,7 +11,6 @@
   inputs.src-gtk2-master.ref   = "refs/heads/master";
   inputs.src-gtk2-master.owner = "nim-lang";
   inputs.src-gtk2-master.repo  = "gtk2";
-  inputs.src-gtk2-master.dir   = "";
   inputs.src-gtk2-master.type  = "github";
   
   inputs."cairo".owner = "nim-nix-pkgs";
